@@ -1,0 +1,59 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Results</title>
+<link rel="stylesheet"type="text/css"href="styles.css">
+</head>
+<%@include file="adminnavbar.jsp" %>
+<body>
+
+<div class="check Table">
+<table>
+<tr>
+<th>
+Parties
+</th>
+<th>
+Names
+</th>
+<th>
+Votes
+</th>
+</tr>
+
+<tr>
+<td>
+<img src="AAP-1.jpg"alt="AAP">
+</td>
+<td>Aam Aadmi Party</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>
+<img src="bjp.jpg"alt="BJP">
+</td>
+<td>BJP</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>
+<img src="congress.png"alt="Congress">
+<td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>
+<img src="cpi.jpg">alt="CPI">"
+</td>
+<td>CPI</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

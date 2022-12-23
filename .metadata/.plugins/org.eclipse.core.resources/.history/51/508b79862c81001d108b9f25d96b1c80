@@ -1,0 +1,11 @@
+import java.sql.Connection;
+
+public class DbManager {
+
+	public Connection getConnection() {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/onlineVotingDb","root","Welcome@123");
+		return con;
+		
+	}
+}

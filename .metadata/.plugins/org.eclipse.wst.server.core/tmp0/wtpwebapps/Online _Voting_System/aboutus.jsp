@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About Us</title>
+<link rel="stylesheet"type="text/css"href="styles.css">
+</head>
+ <%@include file="navbar.jsp" %>
+<body>
+
+<div class="about">
+<p>
+An online voting system is a software platform that allows groups to securely conduct votes and elections. High-quality online voting systems balance ballot
+</p>
+
+<br>
+<h4>About Developer</h4>
+<br>
+<img src="images/vishakha1.jpg" align="right" alt="Developer Image">
+Name:Vishakha Dandage
+<br>
+Contact Number:9960553770
+<br>
+Email:dandagevishakha@gmail.com
+</div>
+</body>
+</html>
