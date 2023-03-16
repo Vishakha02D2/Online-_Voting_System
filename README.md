@@ -1,5 +1,4 @@
-# Online-_Voting_System
-Online Voting System
+# Online_Voting_System
 This project is a web application for conducting online voting. 
 It provides users with the ability to register to vote, view candidate profiles, cast their vote online, and view the results of the election.
 
